@@ -2,7 +2,7 @@
 
 An interactive Streamlit app for exploring how masked language models like BERT, SciBERT, and PubMedBERT complete fill-in-the-blank prompts across multiple real-world themes.
 
-Originally designed for COVID-19, **KnowledgeVIS now supports four general-purpose domains** including public health, bias in tech, education, and custom prompts — making it ideal for NLP research, interpretability analysis, or exploring social language biases.
+**KnowledgeVIS supports four general-purpose domains** including public health, bias in tech, education, and custom prompts — making it ideal for NLP research, interpretability analysis, or exploring social language biases.
 
 ---
 
