@@ -115,9 +115,13 @@ umap-learn
 scipy
 ```
 ---
-## 🎞️ Demo Preview (GIF)
+## 📽 Demo Overview
 
+### 🔹 Quick Preview  
 ![Demo Preview](assets/demo.gif)
+
+### 🔹 Full Walkthrough  
+[▶️ Watch on YouTube](https://youtu.be/your-video-id)
 
 ---
 
