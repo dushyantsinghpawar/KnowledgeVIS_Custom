@@ -1,0 +1,11 @@
+streamlit==1.32.2
+pandas
+torch==2.1.0
+numpy
+nltk
+plotly
+scikit-learn
+transformers==4.36.2
+spacy
+umap-learn
+scipy
