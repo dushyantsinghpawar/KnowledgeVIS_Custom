@@ -121,7 +121,7 @@ scipy
 ![Demo Preview](assets/demo.gif)
 
 ### 🔹 Full Walkthrough  
-[▶️ Watch on YouTube]([https://youtu.be/89KbYFOotNY])
+[▶️ Watch on YouTube](https://youtu.be/89KbYFOotNY)
 
 ---
 
