@@ -115,9 +115,9 @@ umap-learn
 scipy
 ```
 ---
-## Demo Video
+## 🎞️ Demo Preview (GIF)
 
-[▶️ Click here to watch the demo](assets/demo.mp4)
+![Demo Preview](assets/demo.gif)
 
 ---
 
