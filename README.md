@@ -1,5 +1,9 @@
 ## KnowledgeVIS: Fill-in-the-Blank Language Model Explorer
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-orange)
+![Platform](https://img.shields.io/badge/platform-macOS%20M1%2FM2-lightgrey)
+
 An interactive Streamlit app for exploring how masked language models like BERT, SciBERT, and PubMedBERT complete fill-in-the-blank prompts across multiple real-world themes.
 
 **KnowledgeVIS supports four general-purpose domains** including public health, bias in tech, education, and custom prompts — making it ideal for NLP research, interpretability analysis, or exploring social language biases.
@@ -40,13 +44,13 @@ Tested on **MacBook Air M2** with **Python 3.11.8** via `pyenv` and `streamlit`.
 
 ---
 
-## 🛠 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/KnowledgeVIS.git
-cd KnowledgeVIS
+git clone https://github.com/dushyantsinghpawar/KnowledgeVIS_Custom.git
+cd KnowledgeVIS_Custom
 ```
 
 ---
@@ -95,7 +99,7 @@ streamlit run app.py
 
 ---
 
-## `requirements.txt`
+## Python Dependencies
 
 ```txt
 streamlit==1.32.2
@@ -114,8 +118,6 @@ scipy
 ---
 
 ## Preview
-
-> *(Optional: Add screenshots from your `assets/` folder)*
 
 | User Interface|  Heatmap  | Tag Cloud | Embedding Scatter | Word Trajectory |
 |---------------|-----------|-----------|-------------------|-----------------|
