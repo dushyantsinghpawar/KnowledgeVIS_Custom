@@ -114,6 +114,10 @@ spacy
 umap-learn
 scipy
 ```
+---
+## Demo Video
+
+[▶️ Click here to watch the demo](assets/demo.mp4)
 
 ---
 
