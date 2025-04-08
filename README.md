@@ -117,9 +117,9 @@ scipy
 
 > *(Optional: Add screenshots from your `assets/` folder)*
 
-| Heatmap | Tag Cloud | Embedding Scatter | Word Trajectory |
-|--------|-----------|-------------------|-----------------|
-| ![](assets/heatmap.png) | ![](assets/tagcloud.png) | ![](assets/scatter.png) | ![](assets/trajectory.png) |
+| User Interface|  Heatmap  | Tag Cloud | Embedding Scatter | Word Trajectory |
+|---------------|-----------|-----------|-------------------|-----------------|
+| ![](assets/UI.png) | ![](assets/heatmap.png) | ![](assets/tagcloud.png) | ![](assets/scatter.png) | ![](assets/trajectory.png) |
 
 ---
 
